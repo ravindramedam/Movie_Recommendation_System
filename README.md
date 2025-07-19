@@ -5,8 +5,6 @@ This project is a movie recommendation system built with Streamlit and powered b
 
 >Dataset is [HERE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
->Some files are not available on GitHub due to the large file size. you can get it [HERE](https://huggingface.co/sujoy0011/Movie-Recommendation-System/tree/main)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -16,8 +14,7 @@ This project is a movie recommendation system built with Streamlit and powered b
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+-
 
 ## Overview
 
@@ -81,10 +78,4 @@ The system provides the top 10 recommended movies for any selected movie title. 
 
 ![Screenshot 2024-07-12 103743](https://github.com/user-attachments/assets/fbc357a1-a6e6-472a-892b-95fe96767743)
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
